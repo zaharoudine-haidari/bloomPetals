@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+
+
+div.defile{
+    display: flex;
+    width: 1070px;
+    overflow: hidden;
+    overflow: auto;
+    border: 2px solid #333;
+
+}
+
+.defile2{
+    display: flex;
+    overflow: hidden;
+    width: 1060px;
+    overflow: auto;
+    border: 2px solid #333;
+
+
+}
+
+
+section.creation-de-bouquets{
+    text-align: center;
+    margin: 112px;
+}
+
+section{
+    list-style: none;
+    width: 60%;
+    margin: auto;
+    margin-top: 25px;
+}
+
+section.creation-de-bouquets{
+position: relative;
+
+margin-top: ;
+top: ;
+}
+
+

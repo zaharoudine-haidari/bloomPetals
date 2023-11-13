@@ -1,0 +1,23 @@
+h2 {
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    margin-top: 25px;
+} 
+
+div.équipe-img-li{
+    font-size: 14px;
+}
+
+img li {
+    font-size: 18px;
+}
+
+div.équipe{
+
+}

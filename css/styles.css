@@ -1,0 +1,55 @@
+body{
+    margin:  0;
+    padding: 0;
+    font-family: ;
+    background-color: rgb(250, 232, 208);
+    justify-content: center;
+    align-items: center;
+}
+
+
+nav.menu-nav {
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+}
+
+
+nav.menu-nav ul {
+    list-style: none;
+    
+    display: flex;
+    
+}
+
+nav li{
+
+    margin: 15px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+nav.menu-nav ul li.btn a {
+
+    background-color: rgba(65, 24, 250, 0.26);
+    color: rgb(8, 8, 8);
+    text-decoration: none;
+    border-radius: 14%;
+
+}
+
+nav.menu-nav ul li.btn:hover a {
+    color: rgb(16, 15, 15);
+    background-color: rgb(0, 213, 255);
+    transition: 0.7s all;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: pink;
+    color: #000000;
+}
